@@ -1,0 +1,8 @@
+.pyc
+*.pyo
+__pycache_/
+*.pyd
+db.sqlite3
+.idea/
+myenv
+node_modules
